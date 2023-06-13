@@ -1,0 +1,33 @@
+13/06/2023 14:23:34.107 Start perform_trans with args: (<exec_server.ExecManager object at 0x0000027EFD42DA58>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '1000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 14:24:15.756 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001A0F1AFD898>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '1000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 14:24:15.878 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 14:26:29.809 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001E9B6B8F240>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '1000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 14:26:29.930 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 14:28:47.458 Start perform_trans with args: (<exec_server.ExecManager object at 0x0000013C5DD88FD0>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 14:28:53.279 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 16:23:32.830 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001789C6E6BA8>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:25:19.988 Start perform_trans with args: (<exec_server.ExecManager object at 0x0000022E788C4F98>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:25:44.116 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001CBF0EB20B8>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:28:19.219 Start perform_trans with args: (<exec_server.ExecManager object at 0x00000190823A3EF0>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:31:53.200 Start perform_trans with args: (<exec_server.ExecManager object at 0x00000236844F2F28>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:33:21.655 Start perform_trans with args: (<exec_server.ExecManager object at 0x0000028C2CCE5E80>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:38:59.123 Start perform_trans with args: (<exec_server.ExecManager object at 0x0000011D9A0D1EB8>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:46:09.258 Start perform_trans with args: (<exec_server.ExecManager object at 0x00000217A8AC2EB8>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:48:43.549 Start perform_trans with args: (<exec_server.ExecManager object at 0x0000026B18F33E80>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:49:05.017 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001727BFD4CF8>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:49:11.116 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 16:49:21.226 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001727BFD4CF8>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:49:47.507 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001727BFD4CF8>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:51:09.759 Start perform_trans with args: (<exec_server.ExecManager object at 0x0000021A48EB0D68>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:53:37.796 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001D32CA79828>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:53:37.932 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 16:56:45.344 Start perform_trans with args: (<exec_server.ExecManager object at 0x0000015B97E54CC0>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 16:56:45.471 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 17:07:46.948 Start perform_trans with args: (<exec_server.ExecManager object at 0x000002A335402588>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 17:07:51.681 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 17:15:15.061 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001FED9FE8908>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 17:15:15.190 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 17:15:20.489 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001FED9FE8908>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 17:15:20.611 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+13/06/2023 17:15:34.244 Start perform_trans with args: (<exec_server.ExecManager object at 0x00000144D5ED7A20>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+13/06/2023 17:15:34.372 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
