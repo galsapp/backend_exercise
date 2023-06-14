@@ -59,11 +59,11 @@ class ExecManager:
         db.connect(reuse_if_open=True)
         db_bank.connect(reuse_if_open=True)
 
-        # # Add options to the tables - not needed.
-        # for table in tables:
-        #     for q in queries:
-        #         sql_func = getattr(table, q)
-        #         setattr(table, f"exec_{q}", partial(self._run_sql, sql_func))
+        # Add options to the tables
+        for table in tables:
+            for q in queries:
+                sql_func = getattr(table, q)
+                setattr(table, f"exec_{q}", partial(self._run_sql, sql_func))
 
         # Open thread for schedule tasks
         t_thread = threading.Thread(target=self._schedule_tasks)

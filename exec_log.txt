@@ -31,3 +31,6 @@
 13/06/2023 17:15:20.611 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
 13/06/2023 17:15:34.244 Start perform_trans with args: (<exec_server.ExecManager object at 0x00000144D5ED7A20>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
 13/06/2023 17:15:34.372 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
+14/06/2023 15:38:41.245 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001A061177AC8>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+14/06/2023 15:39:22.487 Start perform_trans with args: (<exec_server.ExecManager object at 0x000001DECFE75A90>, {'src_bank_account': '1234', 'dst_bank_account': '5678', 'amount': '12000', 'direction': 'credit'}), kwargs: {}
+14/06/2023 15:39:22.624 End   perform_trans return: {'Status': True, 'Description': 'Request_OK'}
