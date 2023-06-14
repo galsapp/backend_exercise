@@ -1,1 +1,1 @@
-# backend_exercise - All the description is at the 'Word' file :)
+# backend_exercise - All the description of this assignment is at the 'PDF' file :)
