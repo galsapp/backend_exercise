@@ -3,8 +3,6 @@ from datetime import datetime
 from enum import Enum
 from functools import partial
 
-
-from playhouse.shortcuts import model_to_dict
 import time
 
 import processor
@@ -23,7 +21,7 @@ class Verbose(Enum):
     NONE = 6
 
 
-# defining a decorator
+# defining a decorator for logging
 def add_log(func):
     """
     decorator function wrapper function and print before and after run function
